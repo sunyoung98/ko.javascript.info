@@ -13,7 +13,7 @@ importance: 5
 </select>
 ```
 
-자바스크립트를 사용하여 :op
+자바스크립트를 사용하여 :
 
 1. 선택한 옵션의 값과 텍스트를 표시하세요.
 2. 옵션을 추가하세요 : `<option value="classic">Classic</option>`.
