@@ -4,7 +4,7 @@ importance: 5
 
 # select에 옵션 추가하기
 
-`<select>` 가 있습니다. :
+`<select>` 가 있습니다 :
 
 ```html
 <select id="genres">
