@@ -2,9 +2,9 @@ importance: 5
 
 ---
 
-# select에 옵션 추가하기
+# Add an option to select
 
-`<select>` 가 있습니다. :
+There's a `<select>`:
 
 ```html
 <select id="genres">
@@ -13,8 +13,8 @@ importance: 5
 </select>
 ```
 
-자바스크립트를 사용하여 :op
+Use JavaScript to:
 
-1. 선택한 옵션의 값과 텍스트를 표시하세요.
-2. 옵션을 추가하세요 : `<option value="classic">Classic</option>`.
-3. 그것을 선택하세요.
+1. Show the value and the text of the selected option.
+2. Add an option: `<option value="classic">Classic</option>`.
+3. Make it selected.
