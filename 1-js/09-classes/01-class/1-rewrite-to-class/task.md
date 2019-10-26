@@ -2,8 +2,8 @@ importance: 5
 
 ---
 
-# Rewrite to class
+# 클래스로 다시 써봅시다.
 
-The `Clock` class is written in functional style. Rewrite it the "class" syntax.
+이 `Clock` 클래스는 함수 스타일로 작성되었습니다. 함수 스타일로 작성된 `Clock` 클래스를 "클래스" 문법으로 다시 써봅시다.
 
-P.S. The clock ticks in the console, open it to see.
+콘솔에서 clock이 제대로 동작하는지 확인해보세요.
