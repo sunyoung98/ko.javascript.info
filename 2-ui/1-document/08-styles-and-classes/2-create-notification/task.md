@@ -4,7 +4,7 @@ importance: 5
 
 # 알림 만들기
 
-주어진 예제에서 `<div class="notification">` 알림을 만드는 `showNotification(options)` 함수를 작성해봅시다. 이 알림은 1.5초 후에 자동으로 사라집니다.
+주어진 예제에서 `<div class="notification">` 알림을 만드는 함수 `showNotification(options)`를 작성해봅시다. 이 알림은 1.5초 후에 자동으로 사라집니다.
 
 옵션은 다음과 같습니다.
 
